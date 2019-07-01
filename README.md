@@ -5,3 +5,4 @@ Proyecto Técnico previo a la obtención del título de Ingeniero Eléctrico
 ESCUELA POLITÉCNICA NACIONAL
 QUITO-ECUADOR
 Autor: Alexis Guamán Figueroa
+Junio/2019
